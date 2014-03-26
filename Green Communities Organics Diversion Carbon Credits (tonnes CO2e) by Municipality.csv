@@ -1,0 +1,28 @@
+Municipality,Tonnes CO2e 2007 [2],Tonnes CO2e 2008,Tonnes CO2e 2009,Tonnes CO2e 2010,Tonnes CO2e 2011,Tonnes CO2e 2012,Aggregate Tonnes CO2e (2007-12) [1]
+Anmore,0,0,0,0,0,0,0
+Belcarra,0,0,0,0,0,0,0
+"Bowen Island, Electoral B&C",3,18,22,0,0,0,43
+Burnaby,52,135,7,985,992,"1,247","3,418"
+Coquitlam,69,723,727,985,962,961,"4,429"
+Delta [2],114,"1,219",751,"1,236","1,371","1,987","6,678"
+Langley City,0,276,181,203,184,166,"1,009"
+Langley Township,0,762,655,819,958,"1,162","4,356"
+Lions Bay,13,64,17,28,25,23,171
+Maple Ridge,0,0,0,0,0,0,0
+New Westminster,0,45,150,295,904,986,"2,379"
+North Vancouver City,12,106,136,103,109,145,611
+North Vancouver District,10,35,441,281,322,432,"1,521"
+Pitt Meadows,0,0,0,0,0,297,297
+Port Coquitlam,38,265,243,599,635,617,"2,396"
+Port Moody,0,19,89,227,490,444,"1,269"
+Richmond,245,647,400,528,615,722,"3,157"
+Surrey,223,"1,715","2,275","2,714","2,625","2,549","12,099"
+UBC/UEL,0,56,75,51,45,45,273
+Vancouver [2],0,"2,478","2,887","3,870","3,857","15,210","17,387"
+West Vancouver,27,181,258,188,244,333,"1,230"
+White Rock,0,340,404,467,424,438,"2,073"
+Totals:,807,"9,084","9,719","13,580","14,761","27,762","64,796"
+[1] GHG reduction credits (“carbon credits”) available for the 2012 reporting year are the sum of all eligible credits since the signing of the Charter.,,,,,,,
+"[2] City of Vancouver and Delta are signatories to a Tripartite Agreement on Solid Waste with Metro Vancouver, which stipulates that all their waste",,,,,,,
+goes to Vancouver Landfill; therefore their carbon credits are calculated directly using the Organics Diversion Calculator rather than by using the,,,,,,,
+Regional Approach (as described in this report).,,,,,,,
